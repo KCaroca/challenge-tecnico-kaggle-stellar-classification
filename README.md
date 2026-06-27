@@ -54,3 +54,11 @@ El envío realizado en Kaggle obtuvo un puntaje público de:
 ## Tecnologías utilizadas
 
 Python, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost y LightGBM.
+
+## Resultado en Kaggle
+
+El archivo `submission_lightgbm_final.zip` obtuvo un puntaje público de:
+
+**0.95198 — Balanced Accuracy**
+
+Este resultado es consistente con la evaluación interna del modelo LightGBM, que alcanzó una balanced accuracy de 0.9510 en el conjunto de prueba reservado.
